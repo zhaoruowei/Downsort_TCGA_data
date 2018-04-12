@@ -22,12 +22,9 @@ __author__ = 'zhaoruowei'
         /clean    
     Download_data_script
 
-### Put gdc-client into all Downloads folders
 ### Rename manifest and metadata using the following format:
     projectname_datacategory_manifest_xxx.txt
-    projectname_datacategory_metadata_xxx.json
-
-### move RNAseq_metadata and miRNA_metadata into their corresponding 'Analysis' folders
+    projectname_datacategory_json_xxx.json
 
 '''
 
